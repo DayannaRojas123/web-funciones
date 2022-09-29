@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+label{
+    justify-content: center;
+    display:flex;
+}
+
+
+
+button{
+
+    display:flex;
+
+    margin:20px;
+   
+    
+
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  
+}
+
+
+form{
+
+
+    flex-direction: column;
+   display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width:600px;
+	height:400px;
+	margin:auto;
+    background-color: aqua;
+    border-radius: 20px;
+  
+
+
+}
+
+
+
+body{
+    background-image: url(./flower-glowing-red-wallpaper-preview.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+
+
+
